@@ -1,0 +1,18 @@
+{
+  "name": "testgen",
+  "description": "Test Bank Generator that reads input from google docs",
+  "main": "server.js",
+  "authors": [
+    "Juan G Ruelas Jr."
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
